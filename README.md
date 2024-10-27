@@ -6,4 +6,4 @@ I am Shuzheng Si (司书正 in Chinese ✍🏻), currently a first-year CS Ph.D.
 Now, my research interests lie in Large Language Models 🤖, specifically focusing on their Factuality and Alignment. My long-term research goal is to develop a trustworthy and helpful Language Processing Engine that speeds up the entire process of gathering, understanding, and processing textual information for billions of brain workers 🌏.
 
 
-Find my up-to-date publication list in 🔗[Google Scholar](https://scholar.google.com.hk/citations?user=zO2XyZUAAAAJ). Feel free to drop an email if you are interested in connecting 🧑🏻‍🤝‍🧑🏻. 
+Find my up-to-date publication list in 🔗 [Google Scholar](https://scholar.google.com.hk/citations?user=zO2XyZUAAAAJ). Feel free to drop an email if you are interested in connecting 🧑🏻‍🤝‍🧑🏻. 
